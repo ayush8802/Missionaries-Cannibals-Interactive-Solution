@@ -55,10 +55,6 @@ The puzzle involves three missionaries and three cannibals on the left side of a
 
 - Python 3.x
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to fork this repository, submit issues, or create pull requests to improve the solution. Contributions and suggestions are welcome!
